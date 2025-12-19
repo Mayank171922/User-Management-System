@@ -1,6 +1,4 @@
 
-Based on the project files provided, here is a comprehensive README.md file tailored for your GitHub repository.
-
 User Management System
 A full-stack web application for user registration, authentication, and profile management. This project features a Spring Boot backend using session-based authentication and a React frontend styled with Tailwind CSS.
 
